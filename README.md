@@ -23,8 +23,7 @@ Actuellement à la recherche d'un **stage / d'une alternance** dans le développ
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vesiu&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de Vesiu" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesiu&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vesiu&theme=tokyonight&hide_border=true" alt="Streak stats" />
 </p>
 
 ---
