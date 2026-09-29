@@ -1,6 +1,6 @@
 # Salut, moi c'est Jules Gioria 👋
 
-Étudiant en **3ᵉ année de BUT Informatique** (S3), je suis passionné par le développement logiciel et les technologies web.  
+Étudiant en **2ᵉ année de BUT Informatique** (S3), je suis passionné par le développement logiciel et les technologies web.  
 Actuellement à la recherche d'un **stage / d'une alternance** dans le développement pour mettre en pratique mes compétences et participer à des projets concrets.
 
 ---
